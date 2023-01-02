@@ -1,8 +1,8 @@
-/* Hi, I run a kids' gown gemach for my neighborhood.  We lend out gowns free of charge.  Everyone who takes a gown must give in a check of $70 per gown.  If the gown is returned on time, in good condition
-the customers get their check back.  If the gown is returned more than a week late and/or with any damage the check is deposited.  Customers can have the gown for a total of two weeks so they can do 
-necesary alterations and dry cleaning. 
+/* Hi, I run a kids' gown gemach for my neighborhood.  We lend out gowns free of charge.  Everyone who takes a gown must give in a check of $70 per gown. Customers can have the gown for a total of two weeks so they can 
+do necesary alterations and dry cleaning.  If the gown is returned on time, in good condition the customers get their check back.  
+If the gown is returned more than a week late and/or with any damage the check is deposited.  If they have it for more than three weeks total the check is deposited.
 I need to have a better way to keep track of dates the gown is used and whos checks I need to deposit.  
-I need to see gown brand, style, color, size, who borrowed it and when they borrowed and returned it, the gown's condition before and after it was borrowed and how many times it was borrowed.
+I need to see gown brand, style, color, size, who borrowed it and when they borrowed and returned it, the gown's condition before and after it was borrowed.
 I also want a column that says if the check has to be deposited or not.
 Also I want a column of which # gown it is(we have multiples of gown so we assign each gown a number)
 
@@ -15,6 +15,9 @@ We have never had more than fifteen of the same exact gown.
 
 When did you start lending gowns?
 April 16, 1997 was the first time I lent a gown.
+
+How much in advance must one book a gown?
+If it's available for the time you want it I don't mind if you take it on the spot.  However, it is wise to come earlier so the gowns are not booked up yet!
 
 How would you rate conditions?
 Excellent, Good, Fine, Bad
